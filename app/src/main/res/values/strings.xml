@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">imtsapp</string>
+    <string name="app_name">imtsApp</string>
+    <string name="HelloWorld">Bienvenue !</string>
+    <string name="mon_bouton">Mon bouton</string>
 </resources>
