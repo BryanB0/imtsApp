@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">imtsApp</string>
-    <string name="HelloWorld">Bienvenue !</string>
+    <string name="app_name">Todo List</string>
+    <string name="hello_world">Bienvenue!</string>
     <string name="mon_bouton">Mon bouton</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
